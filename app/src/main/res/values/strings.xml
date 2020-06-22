@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Twitter Fun</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Dn4Gt9vUf0woteZGka6PKjS2EwBabJTpl1YOcYUV</string>
+    <string name="back4app_client_key">lKqbQrGHHGF2zPiRMb4ci8dCVOeV8CcoTa4xh8kR</string>
+</resources>
