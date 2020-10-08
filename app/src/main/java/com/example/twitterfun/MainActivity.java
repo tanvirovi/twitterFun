@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ImageView logoImageView = findViewById(R.id.logoImageView);
         ConstraintLayout constraintLayout = findViewById(R.id.constrainLayout);
 
-        setTitle("Twitter Login");
+        setTitle("Tweet Login");
 
         if (ParseUser.getCurrentUser() != null){
             showUserList();
